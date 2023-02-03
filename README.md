@@ -30,13 +30,27 @@ __**This is the link to the Website**__
 <details>
   <summary>This is the current list of Tags.</summary>
   <p 
-
-• !t vf-badges<br>
-• !t vf-boats<br>
-• !t vf-charms<br>
-• !t vf-clans<br>
-• !t vf-pets<br>
-• !t vf-fishinfo, !t vf-fish1-6<br>
-• !t vf-rodinfo, !t vf-rods1-6
+• vf-badges<br>
+• vf-boats<br>
+• vf-charms<br>
+• vf-clans<br>
+• vf-pets<br>
+• vf-fishinfo, vf-fish1-6<br>
+• vf-rodinfo, vf-rods1-6
   </p> 
+</details>
+
+<details>
+ <summary>Credit provided to...</summary>
+
+<details>
+ <summary>Colossus#0069 for....<summary> 
+ <p>
+• vf-fish1-6,<br>• vf-rods1-6,<br>• vf-boats,<br>• vf-charms 
+ </p>
+</details>
+
+
+<details>
+Bob had a baby, it's a boy
 </details>
