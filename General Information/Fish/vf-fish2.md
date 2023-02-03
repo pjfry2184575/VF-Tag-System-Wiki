@@ -9,7 +9,7 @@
 #### ____Hot Cod____<br>
 > • Hot Cod sells for __$500__<br>
 > • A __1x__ sell multiplier<br>
-> • 5warding __100__ experience when caught.<br>
+> • Rewarding __100__ experience when caught.<br>
 
 <br><br><br>
   ```
