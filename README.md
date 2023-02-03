@@ -10,16 +10,13 @@ Tags are different than custom commands, where as ccommands are limited to a sin
 
 By using the tag system, I can provide this Wiki information to any server that invites the bot and knows the naming scheme of the Tags.
 
-The ***Bot's Default Prefix*** is ***`b!`***.
+The ***Bot's Default Prefix*** is ***`b!`***.<br>
 To set a personal server prefix. 
-Send```b!prefix add prefix``` 
-Example:
+<br>**Send**:<br>```b!prefix add prefix``` <br>**Example**:<br>
 ```b!prefix add !```
-
+<br><br><br>
 __**This is the bot's invite link**__
-```https://bit.ly/VF_Wiki-bot_Invite```
-
-Yes, he's supposed to do that. 
+```https://bit.ly/VF_Wiki-bot_Invite```<br>Yes, he's supposed to do that. 
 
 Outside of using the Tag system, To actually use the bot, you will need coding skills.
 
@@ -28,20 +25,18 @@ You will need to learn their bot's language, BBTag!
 
 __**This is the link to the Website**__ 
 ```https://blargbot.xyz```
+<br><br><br>
 
+<details>
+  <summary>This is the current list of Tags.</summary>
+  <p 
 
-This is the current list of Tags. 
-```• !t vf-badges 
-
-• !t vf-boats
-
-• !t vf-charms
-
-• !t vf-clans
-
-• !t vf-fishinfo, !t vf-fish1-6 
-
-• !t vf-pets 
-
-• !t vf-rodinfo, !t vf-rods1-6 
-```
+• !t vf-badges<br>
+• !t vf-boats<br>
+• !t vf-charms<br>
+• !t vf-clans<br>
+• !t vf-pets<br>
+• !t vf-fishinfo, !t vf-fish1-6<br>
+• !t vf-rodinfo, !t vf-rods1-6
+  </p> 
+</details>
