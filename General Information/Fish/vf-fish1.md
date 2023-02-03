@@ -6,22 +6,22 @@
 > • A __1x__ sell multiplier<br>
 > • Awarding __1__ experience when caught.<br>
 
-____Raw Salmon____<br>
+#### ____Raw Salmon____<br>
 > • Raw Salmon sell for __$3__<br>
 > • A __1x__ sell multiplier<br>
 > • Awarding __2__ experience when caught.<br>
 
-____Cod____<br>
+#### ____Cod____<br>
 > • Cod sells for __$10__<br>
 > • A __1x__ sell multiplier<br>
 > • Awarding __5__ experience when caught.<br>
 
-____Tropical Fish____<br>
+#### ____Tropical Fish____<br>
 > • Tropical Fish sell for __$50__<br>
 > • A __1x__ sell multiplier<br>
 > • Awarding __10__ experience when caught.<br>
 
-____Pufferfish____<br>
+#### ____Pufferfish____<br>
 > • Pufferfish sells for __$150__<br>
 > • A __1x__ sell multiplier<br>
 > • Awarding __25__ experience when caught.<br>
