@@ -4,7 +4,7 @@
 
 ## 
 
-I made this with the help of Blargbot#0128, using their public tag system.
+I made this with the help of Blargbot#0128, using it's public tag system.
 
 Tags are different than custom commands, where as ccommands are limited to a single server, Tags can be accessed from any server the bot is in.
 
