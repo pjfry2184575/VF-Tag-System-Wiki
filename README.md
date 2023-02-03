@@ -42,14 +42,17 @@ __**This is the link to the Website**__
 
 <details>
  <summary>Credit provided to...</summary>
-
-<details>
- <summary>Colossus#0069 for....<summary> 
  <p>
-• vf-fish1-6,<br>• vf-rods1-6,<br>• vf-boats,<br>• vf-charms 
- </p>
+<details>
+ <summary>Colossus#0069</summary>
+ <p>
+For Material List & Data<br>
+• vf-fish1-6,<br>
+• vf-rods1-6,<br>
+• vf-boats,<br>
+• vf-charms 
+</p>
 </details>
-
 
 <details>
 Bob had a baby, it's a boy
