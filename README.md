@@ -55,12 +55,40 @@ __**This is the link to the Website**__
  <summary>Credit provided to...</summary>
  <p>
 <details>
- <summary>Colossus#0069</summary>
+ <summary>💙 Colossus#0069</summary>
  <p>
 For Material List & Data provided for<br>
 • vf-fish1-6,<br>
 • vf-rods1-6,<br>
 • vf-boats,<br>
 • vf-charms 
+</p>
+</details>
+
+<details>
+ <summary>💙 Placeholder</summary>
+ <p>
+For stuff and things 
+</p>
+</details>
+
+<details>
+ <summary>💙 Placeholder</summary>
+ <p>
+For stuff and things 
+</p>
+</details>
+
+<details>
+ <summary>💙 Placeholder</summary>
+ <p>
+For stuff and things 
+</p>
+</details>
+
+<details>
+ <summary>💙 Placeholder</summary>
+ <p>
+For stuff and things 
 </p>
 </details>
