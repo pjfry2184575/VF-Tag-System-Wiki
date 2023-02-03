@@ -53,7 +53,3 @@ For Material List & Data<br>
 • vf-charms 
 </p>
 </details>
-
-<details>
-Bob had a baby, it's a boy
-</details>
