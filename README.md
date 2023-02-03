@@ -9,14 +9,38 @@ I made this with the help of Blargbot#0128, using it's public tag system.
 Tags are different than custom commands, where as ccommands are limited to a single server, Tags can be accessed from any server the bot is in.
 
 By using the tag system, I can provide this Wiki information to any server that invites the bot and knows the naming scheme of the Tags.
-
+<br><br><br>
+__**This is the bot's invite link**__
+```https://bit.ly/VF_Wiki-bot_Invite```<br>Yes, he's supposed to do that. 
+<br><br><br>
 The ***Bot's Default Prefix*** is ***`b!`***.<br>
 To set a personal server prefix. 
 <br>**Send**:<br>```b!prefix add prefix``` <br>**Example**:<br>
 ```b!prefix add !```
-<br><br><br>
-__**This is the bot's invite link**__
-```https://bit.ly/VF_Wiki-bot_Invite```<br>Yes, he's supposed to do that. 
+<br>
+<details>
+  <summary>This is the current list of Tags.</summary>
+  <p <br>
+<br>So the way this works is,<br>
+We have the prefix `!`, <br>
+Then a lowercase `t`, to define that we are looking for a Tag,<br>
+No space in-between the `!` and the `t`.<br>
+Space,<br>
+`vf-` (obviously the name of the game.)<br>
+Then the Tag Name, `fishinfo`.<br><br>So Example:<br> 
+!t vf-fishinfo<br><br><br>
+Tag List<br>
+≠≠≠≠≠≠≠≠≠≠≠≠≠≠≠≠≠≠≠≠≠≠≠≠≠≠≠≠<br>
+• vf-badges<br>
+• vf-boats<br>
+• vf-charms<br>
+• vf-clans<br>
+• vf-pets<br>
+• vf-fishinfo, vf-fish1-6<br>
+• vf-rodinfo, vf-rods1-6<br>
+≠≠≠≠≠≠≠≠≠≠≠≠≠≠≠≠≠≠≠≠≠≠≠≠≠≠≠≠
+  </p> 
+</details>
 
 Outside of using the Tag system, To actually use the bot, you will need coding skills.
 
@@ -28,25 +52,12 @@ __**This is the link to the Website**__
 <br><br><br>
 
 <details>
-  <summary>This is the current list of Tags.</summary>
-  <p 
-• vf-badges<br>
-• vf-boats<br>
-• vf-charms<br>
-• vf-clans<br>
-• vf-pets<br>
-• vf-fishinfo, vf-fish1-6<br>
-• vf-rodinfo, vf-rods1-6
-  </p> 
-</details>
-
-<details>
  <summary>Credit provided to...</summary>
  <p>
 <details>
  <summary>Colossus#0069</summary>
  <p>
-For Material List & Data<br>
+For Material List & Data provided for<br>
 • vf-fish1-6,<br>
 • vf-rods1-6,<br>
 • vf-boats,<br>
