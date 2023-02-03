@@ -9,15 +9,15 @@ I made this with the help of Blargbot#0128, using it's public tag system.
 Tags are different than custom commands, where as ccommands are limited to a single server, Tags can be accessed from any server the bot is in.
 
 By using the tag system, I can provide this Wiki information to any server that invites the bot and knows the naming scheme of the Tags.
-<br><br><br>
+<br><br>
 __**This is the bot's invite link**__
 ```https://bit.ly/VF_Wiki-bot_Invite```<br>Yes, he's supposed to do that. 
-<br><br><br>
+<br><br>
 The ***Bot's Default Prefix*** is ***`b!`***.<br>
 To set a personal server prefix. 
 <br>**Send**:<br>```b!prefix add prefix``` <br>**Example**:<br>
 ```b!prefix add !```
-<br>
+<br><br>
 <details>
   <summary>This is the current list of Tags.</summary>
   <p <br>
@@ -41,10 +41,10 @@ Tag List<br>
 ≠≠≠≠≠≠≠≠≠≠≠≠≠≠≠≠≠≠≠≠≠≠≠≠≠≠≠≠
   </p> 
 </details>
-
+<br>
 Outside of using the Tag system, To actually use the bot, you will need coding skills.
 
-This bot is the literal definition of a Fully Customizable Bot.
+This bot is the literal definition of a Fully Customizable Bot.<br>
 You will need to learn their bot's language, BBTag!
 
 __**This is the link to the Website**__ 
