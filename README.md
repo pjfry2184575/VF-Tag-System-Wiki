@@ -61,6 +61,7 @@ For Material List & Data provided for<br>
 • vf-fish1-6,<br>
 • vf-rods1-6,<br>
 • vf-boats,<br>
+• vf-pets,<br>
 • vf-charms 
 </p>
 </details>
