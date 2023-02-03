@@ -1,12 +1,12 @@
 # ____Fish Information____<br><br>
 ### .t vf-fish6
 ## Alien Biome<br>
-____Shark____<br>
+#### ____Shark____<br>
 > • Sharks sell for __$2,000,000__<br>
 > • A __1x__ sell multiplier<br>
 > • Awarding __35,000__ XP when caught.<br>
 
-____Alien Fish____<br>
+#### ____Alien Fish____<br>
 > • Alien Fish sell for __$5,000,000__ <br>
 > • A __1x__ sell multiplier<br>
 > • Awarding __65,000__ XP when caught.<br>
